@@ -5,9 +5,12 @@ Analyze the different categories of Tunisian airline's planes and define its pos
 
 ### Achievements:
 • Scrapping flights and airplane data
+
 • Data visualization
+
 • Clustering
 
 ### Technical environment:
 • Python
+
 • R
